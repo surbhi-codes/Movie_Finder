@@ -10,7 +10,7 @@ Movie Finder is a responsive web application built with React that allows users 
 5. Clean and modern UI
 
 Tech Stack - 
-HTML5
-CSS3
-JavaScript (ES6+)
-React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
